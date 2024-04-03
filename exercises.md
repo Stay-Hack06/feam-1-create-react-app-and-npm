@@ -37,17 +37,17 @@ _npm create vite@latest project-name_
 11. Add the screenshot to the assets folder
 
 # Exercise 3
-1. Create a new React project called yourname-npm-text-animate (make sure to add your own name)
-2. Install [this npm package]([https://www.npmjs.com/package/react-animate-text](https://www.npmjs.com/package/typing-text-animation))
+1. Create a new React project called yourname-npm-typing-text-animation (make sure to add your own name)
+2. Install [this npm package](https://www.npmjs.com/package/typing-text-animation)
 3. Find the package in your package.json file. What version is it?
 
 
 4. Navigate to App.jsx in your project
 5. Delete everything in the return statement of the App component
-6. Navigate back to the text-animate documentation on the npm website and refer to the section on **Usage**
-7. Add the text-animate Usage example to the return statement of your App.js file to render it
+6. Navigate back to the typing-text-animation npm documentation on the npm website and refer to the section on **Usage**
+7. Render the typing text animation package's Usage example in your App component
 8. Change the text to say 'Hello (your name), you are doing great!'
-9. Run 'npm start' in the terminal to see in the browser
+9. Run _npm install_ and then _npm run dev_ in the terminal to see in the browser
 10. Take a screenshot that includes the URL address bar
 11. Add it to the assets folder
 
