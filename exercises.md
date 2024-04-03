@@ -1,4 +1,5 @@
-# How to create a new React project with Vite 
+# Tips for this lab
+How to create a new React project with Vite 
 1. In the terminal, navigate to the directory where you want to create your project.
 2. Then run the following command, replacing "project-name" with the name of your project: 
 _npm create vite@latest project-name_
