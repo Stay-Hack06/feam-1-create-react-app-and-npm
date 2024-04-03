@@ -3,6 +3,11 @@
 2. Then run the following command, replacing "project-name" with the name of your project: 
 _npm create vite@latest project-name_
 
+# Exercise 0 (Getting started)
+1. Open the terminal on your computer
+2. cd into the directory on your computer where you want to store this lab
+3. Fork and git clone this repo. Then move onto the below exercises! 
+
 # Exercise 1
 1. Create a new React project called yourname-practice (make sure to add your own name).
 2. Look in the package.json file. What version of React are we using?
