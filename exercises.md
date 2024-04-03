@@ -1,16 +1,18 @@
+# How to create a new React project with Vite 
+1. In the terminal, navigate to the directory where you want to create your project.
+2. Then run the following command, replacing "project-name" with the name of your project: 
+_npm create vite@latest project-name_
+
 # Exercise 1
-1. Create a new React project called yourname-practice (make sure to add your own name)
-   1. Look in the package.json file. What version of React are we using?
-
-
-
-2. In App.js, delete everything in the return statement. Leave the parenthesis.
-3. Make a div in the parenthesis in the return statement
-4. Make a paragraph and render 'Hello World, this is (your name)'s first React Project!'
-5. Open the terminal in VSCode and type 'npm start'
-6. Check out your app in the browser
-7. Take a screenshot that includes the URL address bar
-8. Add it to the assets folder
+1. Create a new React project called yourname-practice (make sure to add your own name).
+2. Look in the package.json file. What version of React are we using?
+3. In App.jsx, delete everything in the return statement. Leave the parenthesis.
+4. Make a div element in the parenthesis in the return statement
+5. Inside that div element, make a paragraph element and render 'Hello World, this is (your name)'s first React Project!'
+6. Open the terminal in VSCode and run the command _npm install_, then run the command _npm run dev_
+7. Check out your app in the browser!
+8. Take a screenshot that includes the URL address bar
+9. Add the screenshot to the assets folder of your code folder 
 
 # Exercise 2
 1. Create a new React project called yourname-npm-color-picker (make sure to add your own name)
@@ -18,10 +20,10 @@
 3. Find the package in your package.json file. What version is it?
 
 
-4. Navigate to App.js in your project
+4. Navigate to App.jsx in your project
 5. Delete everything in the outer-most div, so your return statement only has one div
 6. Navigate back to the color-picker documentation and refer to the section on **Usage**
-7. Render a color-picker in your App.js file
+7. Render a color-picker in your App.jsx file
 8. Run 'npm start' in the terminal to see in the browser
 9. Take a screenshot that includes the URL address bar
 10. Add it to the assets folder
@@ -30,9 +32,7 @@
 1. Create a new React project called yourname-npm-text-animate (make sure to add your own name)
 2. Install [this](https://www.npmjs.com/package/react-animate-text) npm package
 3. Find the package in your package.json file. What version is it?
-
-
-4. Navigate to App.js in your project
+4. Navigate to App.jsx in your project
 5. Delete everything in the outer-most div, so your return statement only has one div
 6. Navigate back to the text-animate documentation and refer to the section on **Usage**
 7. Add the component to your App.js file
