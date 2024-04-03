@@ -38,12 +38,14 @@ _npm create vite@latest project-name_
 
 # Exercise 3
 1. Create a new React project called yourname-npm-text-animate (make sure to add your own name)
-2. Install [this](https://www.npmjs.com/package/react-animate-text) npm package
+2. Install [this npm package]([https://www.npmjs.com/package/react-animate-text](https://www.npmjs.com/package/typing-text-animation))
 3. Find the package in your package.json file. What version is it?
+
+
 4. Navigate to App.jsx in your project
-5. Delete everything in the outer-most div, so your return statement only has one div
-6. Navigate back to the text-animate documentation and refer to the section on **Usage**
-7. Add the component to your App.js file
+5. Delete everything in the return statement of the App component
+6. Navigate back to the text-animate documentation on the npm website and refer to the section on **Usage**
+7. Add the text-animate Usage example to the return statement of your App.js file to render it
 8. Change the text to say 'Hello (your name), you are doing great!'
 9. Run 'npm start' in the terminal to see in the browser
 10. Take a screenshot that includes the URL address bar
