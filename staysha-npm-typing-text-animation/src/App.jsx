@@ -9,8 +9,8 @@ function App() {
   return (
    
       <div>
-        <TypingText text={["hello", "world"]} />
-        <TypingText text="hello" />
+        <TypingText text={["hello", "Staysha"]} />
+        <TypingText text="you are doing great!" />
       </div>
     
   )
