@@ -11,7 +11,7 @@ _npm create vite@latest project-name_
 
 # Exercise 1
 1. Create a new React project called yourname-practice (make sure to add your own name).
-2. Look in the package.json file. What version of React are we using?
+2. Look in the package.json file. What version of React are we using? "react": "^18.2.0",
 
 
 3. In App.jsx, delete everything in the return statement. Leave the parenthesis.
@@ -25,7 +25,7 @@ _npm create vite@latest project-name_
 # Exercise 2
 1. Create a new React project called yourname-npm-color-picker (make sure to add your own name)
 2. Install [this](https://www.npmjs.com/package/@thednp/react-color-picker) npm color picker
-3. Find that color-picker package in your package.json file. What version is it?
+3. Find that color-picker package in your package.json file. What version is it? "@thednp/react-color-picker": "^0.0.9"
 
 
 4. Navigate to App.jsx in your project
@@ -39,7 +39,7 @@ _npm create vite@latest project-name_
 # Exercise 3
 1. Create a new React project called yourname-npm-typing-text-animation (make sure to add your own name)
 2. Install [this npm package](https://www.npmjs.com/package/typing-text-animation)
-3. Find the package in your package.json file. What version is it?
+3. Find the package in your package.json file. What version is it? "typing-text-animation": "^1.0.2"
 
 
 4. Navigate to App.jsx in your project
